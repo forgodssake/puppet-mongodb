@@ -1,4 +1,6 @@
 * Switch to the YAML configuration for 3.x to allow using wiredTiger engine
+* Add authorization parameter.
+* Include mongodb_backup optional class to enable backup cron job.
 
 #### 2015-04-01 - 1.0.2
 * Add mongod_version fact.
